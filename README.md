@@ -1,2 +1,2 @@
 # Seaborn-Notebook
-Seaborn Tutorial. Note of Seaborn
+Seaborn Tutorial. Notes of Seaborn
